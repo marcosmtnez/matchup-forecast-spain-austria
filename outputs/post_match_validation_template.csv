@@ -1,0 +1,10 @@
+metric,spain_low,spain_high,austria_low,austria_high,basis,actual_spain,actual_austria,spain_in_range,austria_in_range,comment
+Possession (%),62.88676679478251,70.91486468347816,31.113233205217483,35.08513531652184,Comparable possession + style-control adjustment,,,,,
+xG,1.4562950465473734,2.2777948163946093,0.5953563282131513,0.9311983595128777,Final style-adjusted xG from our model,,,,,
+Goals,1.026267,2.7056129999999996,0.42154200000000003,1.111338,Monte Carlo goal distribution mean,,,,,
+Shots,13.168266369662469,19.7523995544937,5.214023775209221,7.821035662813832,xG divided by modelled shot quality,,,,,
+Shots on target,3.7697303527805044,6.28288392130084,1.8695745032161297,3.115957505360216,Shots multiplied by observed SOT-rate profile,,,,,
+Corners,5.4213289885961125,8.47951457190674,1.7872655696768147,2.7954666602637355,Shot volume + territorial pressure,,,,,
+Passes,590.0651948191296,721.1907936678251,274.0612456800008,334.963744720001,Possession model converted into pass-volume expectation,,,,,
+High recoveries,5.773606000000001,9.420094,6.73094,10.98206,Observed recoveries + pressing/disruption style,,,,,
+Fouls,11.578053777777779,16.661101777777777,15.686354000000001,22.573045999999998,Observed fouls + game-disruption style,,,,,
