@@ -1,0 +1,8 @@
+parameter,value,description
+recent_world_cup_weight,0.65,Weight assigned to 2026 World Cup matches in team baseline calculation.
+pre_world_cup_weight,0.35,Weight assigned to pre-World-Cup comparable matches.
+comparable_layer_weight,0.40,How much comparable-style evidence adjusts the raw team baseline.
+style_layer_weight,0.35,How much tactical style profile adjusts expected xG.
+uncertainty_multiplier,0.18,General uncertainty widening factor for forecast ranges.
+monte_carlo_simulations,50000,Number of simulated matches.
+random_seed,42,Seed for reproducible Monte Carlo simulation.

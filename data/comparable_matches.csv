@@ -1,0 +1,9 @@
+team,match_id,opponent,comparison_type,opponent_similarity_to_next_opponent,style_similarity_score,weight_in_model,reason
+Spain,ESP_CPV_2026,Cape Verde,Spain_vs_Austria_like,0.82,0.86,1.00,"Low block, compact defending and underdog game state: useful for Spain breaking a defensive structure."
+Spain,ESP_URU_2026,Uruguay,Spain_vs_Austria_like,0.74,0.78,0.85,"Compact transition threat and physical defensive profile."
+Spain,ESP_ITA_2024,Italy,Spain_vs_Austria_like,0.68,0.75,0.65,"Elite compact opponent with intensity and defensive resistance."
+Spain,ESP_CRO_2024,Croatia,Spain_vs_Austria_like,0.62,0.70,0.55,"Direct transition danger, useful for rest-defence adjustment."
+Austria,AUT_ARG_2026,Argentina,Austria_vs_Spain_like,0.88,0.91,1.00,"Elite possession and attacking control opponent, closest available Spain-like benchmark."
+Austria,AUT_FRA_2024,France,Austria_vs_Spain_like,0.78,0.82,0.70,"Elite territorial opponent with individual quality."
+Austria,AUT_NED_2024,Netherlands,Austria_vs_Spain_like,0.70,0.76,0.60,"Possession with width, useful for Austria defensive-stretch behaviour."
+Austria,AUT_ALG_2026,Algeria,Austria_vs_Spain_like,0.44,0.52,0.35,"Lower Spain similarity, but useful for Austria defensive volatility and late-game instability."
